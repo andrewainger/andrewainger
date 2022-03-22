@@ -1,6 +1,5 @@
---->
 Hi All;
-I'm Andrew WS Ainger and I'm interested in IoT in Africa so that's SigFox & LoraWan?
+I'm Andrew WS Ainger and I'm interested in IoT in Africa (so that's SigFox & LoraWan?)
 We currently are using SMS but ftp are also available to us.
 The website I am currently involved in is: www.WellMonitorinhgService.co.uk
 I'm looking to collaborate with 'Arduinoeers' who have experience with Lora or Sigfox.
